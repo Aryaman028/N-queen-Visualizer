@@ -5,7 +5,7 @@ A project to demonstrate visualization for N-Queens Problem using backtracking a
 This project visualizes the solution to the classic N-Queens problem. The N-Queens problem is a well-known problem in combinatorial optimization and computer science, where the challenge is to place N queens on an N×N chessboard so that no two queens threaten each other. Here, "threaten" means that no two queens share the same row, column, or diagonal.
 
 ## Demo
-[Live Demo](https://aanyapanigrahi.github.io/N-Queens-Visualizer/) <!-- Replace with live demo link -->
+[Live Demo](https://n-queen-visualizer-murex.vercel.app/) <!-- Replace with live demo link -->
 
 ## Features
 - **Interactive Board**: Enter the board size (N) and click "Solve" to see the solutions visually.
